@@ -208,12 +208,14 @@
 			<version>0.6</version>
 			<scope>test</scope>
 		</dependency>
+-->
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
 			<version>4.2.5</version>
 			<scope>test</scope>
 		</dependency>
+<!--
 		<dependency>
 			<groupId>org.jboss.monitoring</groupId>
 			<artifactId>event-monitor-core</artifactId>
@@ -243,13 +245,12 @@
 			<version>5.3.1.Final</version>
 		</dependency>
 		-->
-		<!-- 
+
 		<dependency>
 			<groupId>org.kie</groupId>
 			<artifactId>kie-api</artifactId>
 			<version>${drools.version}</version>
 		</dependency>
-		 -->
 		<dependency>
 			<groupId>org.drools</groupId>
 			<artifactId>drools-core</artifactId>
