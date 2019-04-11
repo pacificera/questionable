@@ -11,7 +11,7 @@
     
 	<name>${project.groupId}.${project.artifactId}</name>
     <groupId>com.redhat.sso</groupId>
-    <artifactId>dynamic-wizard-example-app-xls</artifactId>
+    <artifactId>diabetes-diagnostic-app-xls</artifactId>
     <version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	

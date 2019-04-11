@@ -1,7 +1,7 @@
 
 	<div class="wrapper">
 		<div style="padding-bottom:20px">
-			<img style="height:65px" src="images/acme-home-loans.png"/>
+			<img style="height:65px" src="images/ada.png"/>
 		</div>
 		
 		<!-- include the dynamic questionnaire form here -->
